@@ -1,0 +1,22 @@
+# Light Theory Labs
+
+> Light Theory Labs is a creative training lab for video AI: RL environments, professional evaluation and rights-cleared footage, built and graded by senior editors, colorists and sound designers.
+
+## Solutions
+- [RL training packages](https://crankymercury88.github.io/LightTheoryLabs/solutions/rl-training-packages/): Reproducible video-editing tasks with reference cuts and graders that resist gaming, built by senior editors.
+- [Generative video feedback](https://crankymercury88.github.io/LightTheoryLabs/solutions/generative-video-feedback/): Side-by-side preferences, rubric scores and written critiques of AI-generated video from working editors, colorists and sound designers, for benchmarking a model or training it.
+- [Expert panels](https://crankymercury88.github.io/LightTheoryLabs/solutions/expert-panels/): Managed, calibrated panels of senior editors, colorists, sound designers and motion designers for your own tasks, or under a data vendor's contract.
+- [Custom video production](https://crankymercury88.github.io/LightTheoryLabs/solutions/custom-video-production/): Footage planned, shot and labelled to specification, with every participant consented and every asset cleared for AI training.
+
+## Research
+- [Research](https://crankymercury88.github.io/LightTheoryLabs/research/): What published benchmarks show about agentic video editing, where agents fail, and the baseline Light Theory Labs is running on 20 professional tasks.
+
+## Insights
+- [What is an RL environment for creative software?](https://crankymercury88.github.io/LightTheoryLabs/insights/what-is-an-rl-environment-for-creative-software/): An RL environment for creative software is a reproducible task with a brief, source material, a starting state and a grader. For video editing, the grader is the hard part.
+- [How professional editors judge AI-generated video](https://crankymercury88.github.io/LightTheoryLabs/insights/how-professional-editors-judge-ai-generated-video/): Working editors, colorists and sound designers score AI-generated video on cinematography, colour, sound and edit, with critiques cited to timecode and published agreement data.
+- [How much do RL environments cost?](https://crankymercury88.github.io/LightTheoryLabs/insights/how-much-do-rl-environments-cost/): Published ranges put expert-authored RL tasks at roughly $200–2,000 each and contracts at six to seven figures per quarter.
+
+## Company
+- [For experts](https://crankymercury88.github.io/LightTheoryLabs/experts/): Light Theory Labs hires senior editors, colorists, sound designers and motion designers to write editing tasks, cut reference answers and grade agent output. $60–125 an hour, remote.
+- [Partners](https://crankymercury88.github.io/LightTheoryLabs/partners/): Partner with Light Theory Labs: co-developed benchmarks with labs, white-label subcontracting for data vendors, licensing, tool-maker programs, research collaboration and footage sites.
+- [Request a demo](https://crankymercury88.github.io/LightTheoryLabs/contact/)
